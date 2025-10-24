@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'CacagiMorn';
+  src: url('path/to/CacagiMorn.ttf') format('truetype');
+}
+git clone https://github.com/ramirezalvarezjaime6-collab/Cacagi-Morn-.git
